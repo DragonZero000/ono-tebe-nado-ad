@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\psp4g\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E \u042F\u043D\u0434\u0435\u043A\u0441\\ono-tebe-nado-ad\\",
+  "WorkspaceRootPath": "C:\\Users\\psp4g\\source\\repos\\DragonZero000\\ono-tebe-nado-ad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\psp4g\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E \u042F\u043D\u0434\u0435\u043A\u0441\\ono-tebe-nado-ad\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\psp4g\\source\\repos\\DragonZero000\\ono-tebe-nado-ad\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\psp4g\\source\\repos\\DragonZero000\\ono-tebe-nado-ad\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\psp4g\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E \u042F\u043D\u0434\u0435\u043A\u0441\\ono-tebe-nado-ad\\fonts\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fonts\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\psp4g\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E \u042F\u043D\u0434\u0435\u043A\u0441\\ono-tebe-nado-ad\\styles\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\psp4g\\source\\repos\\DragonZero000\\ono-tebe-nado-ad\\styles\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\psp4g\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E \u042F\u043D\u0434\u0435\u043A\u0441\\ono-tebe-nado-ad\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\psp4g\\source\\repos\\DragonZero000\\ono-tebe-nado-ad\\fonts\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fonts\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,36 +31,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\psp4g\\source\\repos\\DragonZero000\\ono-tebe-nado-ad\\styles\\style.css",
+              "RelativeDocumentMoniker": "styles\\style.css",
+              "ToolTip": "C:\\Users\\psp4g\\source\\repos\\DragonZero000\\ono-tebe-nado-ad\\styles\\style.css",
+              "RelativeToolTip": "styles\\style.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-07T13:49:12.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\psp4g\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E \u042F\u043D\u0434\u0435\u043A\u0441\\ono-tebe-nado-ad\\index.html",
+              "DocumentMoniker": "C:\\Users\\psp4g\\source\\repos\\DragonZero000\\ono-tebe-nado-ad\\index.html",
               "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\psp4g\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E \u042F\u043D\u0434\u0435\u043A\u0441\\ono-tebe-nado-ad\\index.html",
+              "ToolTip": "C:\\Users\\psp4g\\source\\repos\\DragonZero000\\ono-tebe-nado-ad\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-03T11:44:27.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\psp4g\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E \u042F\u043D\u0434\u0435\u043A\u0441\\ono-tebe-nado-ad\\styles\\style.css",
-              "RelativeDocumentMoniker": "styles\\style.css",
-              "ToolTip": "C:\\Users\\psp4g\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E \u042F\u043D\u0434\u0435\u043A\u0441\\ono-tebe-nado-ad\\styles\\style.css",
-              "RelativeToolTip": "styles\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-03T11:44:26.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "global.css",
-              "DocumentMoniker": "C:\\Users\\psp4g\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E \u042F\u043D\u0434\u0435\u043A\u0441\\ono-tebe-nado-ad\\styles\\global.css",
+              "DocumentMoniker": "C:\\Users\\psp4g\\source\\repos\\DragonZero000\\ono-tebe-nado-ad\\styles\\global.css",
               "RelativeDocumentMoniker": "styles\\global.css",
-              "ToolTip": "C:\\Users\\psp4g\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E \u042F\u043D\u0434\u0435\u043A\u0441\\ono-tebe-nado-ad\\styles\\global.css",
+              "ToolTip": "C:\\Users\\psp4g\\source\\repos\\DragonZero000\\ono-tebe-nado-ad\\styles\\global.css",
               "RelativeToolTip": "styles\\global.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -69,11 +69,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "fonts.css",
-              "DocumentMoniker": "C:\\Users\\psp4g\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E \u042F\u043D\u0434\u0435\u043A\u0441\\ono-tebe-nado-ad\\fonts\\fonts.css",
+              "DocumentMoniker": "C:\\Users\\psp4g\\source\\repos\\DragonZero000\\ono-tebe-nado-ad\\fonts\\fonts.css",
               "RelativeDocumentMoniker": "fonts\\fonts.css",
-              "ToolTip": "C:\\Users\\psp4g\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E \u042F\u043D\u0434\u0435\u043A\u0441\\ono-tebe-nado-ad\\fonts\\fonts.css",
+              "ToolTip": "C:\\Users\\psp4g\\source\\repos\\DragonZero000\\ono-tebe-nado-ad\\fonts\\fonts.css",
               "RelativeToolTip": "fonts\\fonts.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
