@@ -10,29 +10,34 @@
     <link rel="stylesheet" href="./styles/style.css">
 </head>
   <body>
-      <header>
-          <nav>
-              <ul class="menu">
-                  <li class="header__links-list-item_no-bullit">Главная</li>
-                  <li>Посмотреть лоты</li>
-                  <li>Об аукционе</li>
+      <header class="header">
+          <nav class="header_menu">
+              <ul class="menu_links-list">
+                  <li class="menu_links-list-item menu_links-list-item_no-bullit"><a class="header_menu_link header_menu_link_active" href="#0">главная</a></li>
+                  <li class="menu_links-list-item"><a class="header_menu_link" href="#0">посмотреть лоты</a></li>
+                  <li class="menu_links-list-item"><a class="header_menu_link" href="#0">об аукционе</a></li>
               </ul>
           </nav>
-          <a class="logo">
-              <img src="images/logo-black.svg" alt="logo">
-          </a>
-          <address class="address">
-              <a href="tel:+70000000">+7(000)000-00-00</a><br><a href="mailto:mail@example.com">mail@example.com</a>
+          <a href="#0" class="header_logo"><img class="header_logo-image" src="images/logo-black.svg"></a>
+          <address class="header_address">
+              <div class="address-content">
+                  <a href="tel:+70000000"class="address-phone"> +70000000</a>
+                  <a href="mailto:mail@example.com" class="adddress-mail">mail@example.com</a>
+                  <p class="address-home">наб. Принсенграхт 263-<br /> 265, Амстердам</p>
+              </div>
           </address>
       </header>
-      <main>
-          <section class="cover">
-              <h1 class="cover__title"><span class="aligned-text">Оно</span><span class="aligned-text_center">Тебе</span><span class="aligned-text_right">Надо</span></h1>
-              <div class="description">
-                  <p>Аукцион вещей в которых никто не верит</p>
-                  <button>
 
-                  </button>
+      <main>
+          <section class="cover overlay" id="main_cover">
+              <h1 class="cover_title">
+                  <span class="aligned-text">ОНО</span>
+                  <span class="aligned-text aligned-text_center">ТЕБЕ</span>
+                  <span class="aligned-text aligned-text_right">НАДО</span>
+              </h1>
+              <div class="cover_description">
+                  <span class="cover_description-text">АУКЦИОН ВЕЩЕЙ, В КОТОРЫЕ НИКТО НЕ ВЕРИЛ</span>
+                  <button type="button" class="bet-button"> СДЕЛАТЬ СТАВКУ </button>
               </div>
           </section>
       </main>
