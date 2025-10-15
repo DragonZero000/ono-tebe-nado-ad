@@ -115,3 +115,129 @@
     color: #FFF;
     background: transparent;
 }
+
+.lots {
+    padding: 180px 24px 0;
+}
+
+.lots_heading {
+    padding: 0 0 27px 40px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #000;
+}
+
+.lots_card-list {
+    padding-bottom: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 25px;
+    list-style: none;
+}
+
+.card {
+    padding: 48px 40px;
+    height: 596px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card_type_film {
+    position: relative;
+    background: url(../images/card-lot-01.jpg) no-repeat center;
+    background-size: cover;
+    color: #FFF;
+}
+
+.card_type_book {
+    position: relative;
+    background: url(../images/card-lot-02.jpg) no-repeat center;
+    background-size: cover;
+    color: #FFF;
+}
+
+.card_type_picture {
+    position: relative;
+    background: url(../images/card-lot-03.jpg) no-repeat center;
+    background-size: cover;
+    color: #FFF;
+}
+
+.card_title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.card_text {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.lots_look-more-link {
+    padding-left: 40px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.about {
+    padding: 120px 24px 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 275px 8px 120px 24px 168px;
+    grid-template-areas:"logo title ." ". first-paragraph first-paragraph" ". second-paragraph second-paragraph";
+    column-gap: 25px;
+}
+
+.about_logo {
+    width: 240px;
+    height: 240px;
+    margin: 35px 47px;
+    display: flex;
+    grid-area: logo;
+    background-color: #000;
+    border-radius: 50%;
+}
+
+.about_column {
+    margin-top: 133px;
+    width: 693px;
+}
+
+.about_logo-image {
+    width: 148px;
+    height: 114px;
+    margin: auto;
+    align-self: center;
+}
+
+.about_title {
+    padding-top: 3px;
+    padding-bottom: 100px;
+    grid-area: title;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-transform: uppercase;
+    color: #000000;
+
+}
+
+.about_text-first-paragraph {
+    padding-bottom: 24px;
+    grid-area: first-paragraph;
+}
+
+.about_text-second-paragraph {
+    grid-area: second-paragraph;
+}
+
+.about_text {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+}
