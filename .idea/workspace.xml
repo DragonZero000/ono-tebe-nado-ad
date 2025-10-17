@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e34d330b-3a60-495f-a22d-534a17c73bad" name="Changes" comment="sections &quot;lots&quot; and &quot;about&quot; with style ready">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e34d330b-3a60-495f-a22d-534a17c73bad" name="Changes" comment="ready version">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +114,7 @@
       <workItem from="1760509083948" duration="2942000" />
       <workItem from="1760512058882" duration="103000" />
       <workItem from="1760512168007" duration="504000" />
-      <workItem from="1760681588645" duration="1809000" />
+      <workItem from="1760681588645" duration="2898000" />
     </task>
     <task id="LOCAL-00001" summary="header ready">
       <option name="closed" value="true" />
@@ -142,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760511053340</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ready version">
+      <option name="closed" value="true" />
+      <created>1760683451124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760683451124</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +169,7 @@
     <MESSAGE value="header ready" />
     <MESSAGE value="header and section &quot;cover&quot; with style ready" />
     <MESSAGE value="sections &quot;lots&quot; and &quot;about&quot; with style ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="sections &quot;lots&quot; and &quot;about&quot; with style ready" />
+    <MESSAGE value="ready version" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready version" />
   </component>
 </project>
