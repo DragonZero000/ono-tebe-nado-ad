@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="detached2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,6 +32,16 @@
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/DragonZero000/ono-tebe-nado-ad.git&quot;,
     &quot;accountId&quot;: &quot;da9f1deb-cc1f-4005-9413-eb82721a1481&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;DragonZero000&quot;,
+    &quot;repository&quot;: &quot;ono-tebe-nado-ad&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -47,7 +57,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;f844d7d8&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/psp4g/OneDrive/Рабочий стол/Проект по Яндекс/ono-tebe-nado-ad&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -103,7 +113,10 @@
       <workItem from="1759827377243" duration="72000" />
       <workItem from="1760026048212" duration="9000" />
       <workItem from="1760462589381" duration="3905000" />
-      <workItem from="1760509083948" duration="1918000" />
+      <workItem from="1760509083948" duration="2942000" />
+      <workItem from="1760512058882" duration="103000" />
+      <workItem from="1760512168007" duration="504000" />
+      <workItem from="1760681588645" duration="1809000" />
     </task>
     <task id="LOCAL-00001" summary="header ready">
       <option name="closed" value="true" />
@@ -121,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760466510758</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sections &quot;lots&quot; and &quot;about&quot; with style ready">
+      <option name="closed" value="true" />
+      <created>1760511053340</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760511053340</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

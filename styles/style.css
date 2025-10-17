@@ -241,3 +241,38 @@
     font-size: 20px;
     line-height: 24px;
 }
+
+.footer {
+    padding: 180px 50px 82px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.footer_address {
+    justify-self: start;
+}
+
+.footer_menu {
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.footer_menu-list {
+    list-style: none;
+    text-align: center;
+}
+
+.footer_social {
+    display: flex;
+    flex-direction: row;
+    column-gap: 48px;
+    justify-content: end;
+    list-style: none;
+}
+
+.footer_social-icon {
+    width: 48px;
+    height: 48px;
+}
