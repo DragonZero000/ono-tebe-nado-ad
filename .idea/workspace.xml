@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e34d330b-3a60-495f-a22d-534a17c73bad" name="Changes" comment="ready version">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="e34d330b-3a60-495f-a22d-534a17c73bad" name="Changes" comment="ready version 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -114,7 +116,7 @@
       <workItem from="1760509083948" duration="2942000" />
       <workItem from="1760512058882" duration="103000" />
       <workItem from="1760512168007" duration="504000" />
-      <workItem from="1760681588645" duration="2898000" />
+      <workItem from="1760681588645" duration="3850000" />
     </task>
     <task id="LOCAL-00001" summary="header ready">
       <option name="closed" value="true" />
@@ -148,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760683451124</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ready version 2">
+      <option name="closed" value="true" />
+      <created>1760684864935</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760684864935</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +180,7 @@
     <MESSAGE value="header and section &quot;cover&quot; with style ready" />
     <MESSAGE value="sections &quot;lots&quot; and &quot;about&quot; with style ready" />
     <MESSAGE value="ready version" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready version" />
+    <MESSAGE value="ready version 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready version 2" />
   </component>
 </project>
